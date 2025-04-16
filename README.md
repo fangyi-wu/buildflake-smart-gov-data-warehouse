@@ -60,8 +60,7 @@ BuildFlake integrates over **2 million civic records** (building permits, violat
 - Geographic heatmaps for service request density and violations.
 - Temporal trends in permit issuance and inspection delays.
 - Address-level dashboards (e.g., most-requested properties, peak violation zones).
-- <img width="778" alt="image" src="https://github.com/user-attachments/assets/0bbd456f-16a8-4d5c-8066-52224c4700b3" />
-
+- <img width="676" alt="image" src="https://github.com/user-attachments/assets/db798225-57b1-4b84-bd9c-0b8d8ef10d59" />
 
 ---
 
