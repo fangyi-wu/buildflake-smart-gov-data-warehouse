@@ -29,7 +29,6 @@ BuildFlake integrates over **2 million civic records** (building permits, violat
 ### Cloud Deployment
 - Deployed the warehouse on **Google Cloud Platform (GCP)**.
   - Scheduled SQL jobs for daily ingestion and transformation.
-- Optimized query execution time from 700+ seconds to under 5 seconds.
 
 ---
 
@@ -39,6 +38,7 @@ BuildFlake integrates over **2 million civic records** (building permits, violat
 - Diagnosed **delays in inspections** and compliance processes post-COVID through historical trends.
 - Mapped **311 service request surges** by time of day and geography for resource allocation.
 - Produced **interactive Tableau dashboards** for real-time monitoring and strategic planning.
+- **Optimized query execution time** from 700+ seconds to under 5 seconds (reduced query time by 99%).
 
 ---
 
