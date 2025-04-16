@@ -55,7 +55,7 @@ BuildFlake integrates over **2 million civic records** (building permits, violat
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 - Geographic heatmaps for service request density and violations.
 - Temporal trends in permit issuance and inspection delays.
@@ -72,7 +72,7 @@ BuildFlake integrates over **2 million civic records** (building permits, violat
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Fangyi (Cecilia) Wu**  
 M.S. Applied Data Science, University of Chicago  
